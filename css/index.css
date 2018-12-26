@@ -2,13 +2,13 @@
   height: 30px;
   width: 30px; }
 
-#beneficios .container {
+#titulo .container {
   display: grid; }
-  #beneficios .container .col {
+  #titulo .container .col {
     border: 1px solid red; }
-    #beneficios .container .col H1 {
+    #titulo .container .col H1 {
       color: #006bb7 }
-    #beneficios .container .col img {
+    #titulo .container .col img {
       height: 300px;
       width: 300px; }
 
