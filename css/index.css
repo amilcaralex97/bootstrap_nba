@@ -4,12 +4,14 @@
 
 #titulo .container {
   display: grid; }
-  #titulo .container .col {
-    border: 1px solid red; }
+  
     #titulo .container .col H1 {
       color: #006bb7 }
     #titulo .container .col img {
       height: 300px;
       width: 300px; }
 
+#playoff{
+  color: #006bb7;
+}
 /*# sourceMappingURL=index.css.map */
