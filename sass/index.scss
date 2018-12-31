@@ -1,7 +1,7 @@
 #header{
     img{
-        height: 30px;
-        width: 30px;
+        height: 40px;
+        width: 50px;
     }
 }
 
@@ -10,9 +10,9 @@
         display: grid;
         .col{
             H1{
-                color: blue;
+                color: #006bb7;
             }
-            border: 1px solid red;
+            
             img{
                 height: 300px;
                 width: 300px;
@@ -22,8 +22,21 @@
 }
 
 #playoff{
-    h1{
-        color:#006bb7;
-    }
     
+        color:#006bb7; 
+}
+
+#tickets{
+    h2{
+        color:#006bb7;}
+}
+
+#confianza{
+    background-color: #006bb7;
+    color: white;
+}
+
+
+.bg-dark{
+    background-color: #006bb7;
 }

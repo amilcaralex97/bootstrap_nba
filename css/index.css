@@ -1,17 +1,26 @@
 #header img {
-  height: 30px;
-  width: 30px; }
+  height: 40px;
+  width: 50px; }
 
 #titulo .container {
   display: grid; }
-  
-    #titulo .container .col H1 {
-      color: #006bb7 }
-    #titulo .container .col img {
-      height: 300px;
-      width: 300px; }
+  #titulo .container .col H1 {
+    color: #006bb7; }
+  #titulo .container .col img {
+    height: 300px;
+    width: 300px; }
 
-#playoff{
-  color: #006bb7;
-}
+#playoff {
+  color: #006bb7; }
+
+#tickets h2 {
+  color: #006bb7; }
+
+#confianza {
+  background-color: #006bb7;
+  color: white; }
+
+.bg-dark {
+  background-color: #006bb7; }
+
 /*# sourceMappingURL=index.css.map */
